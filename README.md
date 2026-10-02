@@ -8,7 +8,12 @@ CareerLens is an interactive dashboard for exploring the Indian tech job market 
 It combines job-market analysis with an AI-powered question-answering layer so users can explore hiring demand, experience requirements, skills, work modes, and disclosed salary patterns directly from the dataset.
 
 ---
+## 🚀 Live Demo
 
+**https://careerlens-in.streamlit.app/**
+
+Explore the interactive dashboard and ask questions about the Indian tech job market using the AI-powered **Ask CareerLens** feature.
+---
 ## What CareerLens Does
 
 CareerLens provides:
