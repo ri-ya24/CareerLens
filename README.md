@@ -10,7 +10,9 @@ It combines job-market analysis with an AI-powered question-answering layer so u
 ---
 ## 🚀 Live Demo
 
-**https://careerlens-in.streamlit.app/**
+**https://careerlens-in.streamlit.app/** 
+(Note: The Streamlit demo may take a few seconds to wake after inactivity)
+
 
 Explore the interactive dashboard and ask questions about the Indian tech job market using the AI-powered **Ask CareerLens** feature.
 ---
